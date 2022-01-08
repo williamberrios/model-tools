@@ -16,7 +16,7 @@ requirements = [
     #"torch",
     #"torchvision",
     #"tensorflow==1.15",
-    "keras==2.3.1",
+    #"keras==2.3.1",
     #"scikit-learn",
     "result_caching @ git+https://github.com/brain-score/result_caching",
 ]
