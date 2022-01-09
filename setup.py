@@ -13,12 +13,12 @@ requirements = [
     "Pillow",
     "numpy",
     "tqdm",
-    "torch",
-    "torchvision",
+    #"torch",
+    #"torchvision",
     #"tensorflow==1.15",
     #"keras==2.3.1",
     "scikit-learn",
-    "detectron2 @ git+https://github.com/facebookresearch/detectron2.git",
+    #"detectron2 @ git+https://github.com/facebookresearch/detectron2.git",
     "result_caching @ git+https://github.com/brain-score/result_caching",
 ]
 
